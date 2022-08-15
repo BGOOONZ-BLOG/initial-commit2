@@ -1,5 +1,6 @@
 // gatsby-plugin-sitemap config
 // https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-plugin-sitemap#options
+
 module.exports = {
     output: `/sitemap.xml`,
     query: `{

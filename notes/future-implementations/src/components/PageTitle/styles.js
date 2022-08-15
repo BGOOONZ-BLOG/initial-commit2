@@ -1,5 +1,6 @@
 import Image from 'gatsby-image';
 import styled from 'styled-components';
+
 export const PageTitleDiv = styled.hgroup`
     position: relative;
     color: white;
@@ -24,6 +25,7 @@ export const PageTitleDiv = styled.hgroup`
         color: var(--color-lightLink);
     }
 `;
+
 export const Img = styled(Image).attrs((p) => !p.fluid && p.src && { as: `img`, src: p.dataURI || p.src })`
     position: absolute !important;
     z-index: -1;

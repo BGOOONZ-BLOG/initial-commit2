@@ -2,6 +2,7 @@ import { throttle } from 'lodash';
 import React, { useEffect, useRef, useState } from 'react';
 import { useEventListener, useOnClickOutside } from 'hooks';
 import { Title, TocDiv, TocIcon, TocLink, TocToggle } from './styles';
+
 const accumulateOffsetTop = (el, totalOffset = 0) => {
     while (el) {
         totalOffset += el.offsetTop - el.scrollTop + el.clientTop;
@@ -9,6 +10,7 @@ const accumulateOffsetTop = (el, totalOffset = 0) => {
     }
     return totalOffset;
 };
+
 export default function Toc({ headingSelector, getTitle, getDepth, ...rest }) {
     const { throttleTime = 200, tocTitle = `Contents` } = rest;
     const [headings, setHeadings] = useState({
@@ -26,6 +28,7 @@ export default function Toc({ headingSelector, getTitle, getDepth, ...rest }) {
         // the need for useMemo and useCallback, resp.
         // Otherwise, these would change on every render and since this effect calls
         // setHeadings which triggers a rerender, it would cause an infinite loop.
+
         const selector = headingSelector || Array.from({ length: 6 }, (_, i) => `main > h` + (i + 1));
         const nodes = Array.from(document.querySelectorAll(selector));
         const titles = nodes.map((node) => ({
@@ -35,6 +38,7 @@ export default function Toc({ headingSelector, getTitle, getDepth, ...rest }) {
         const minDepth = Math.min(...titles.map((h) => h.depth));
         setHeadings({ titles, nodes, minDepth });
     }, [headingSelector, getTitle, getDepth]);
+
     const scrollHandler = throttle(() => {
         const { titles, nodes } = headings;
         // Offsets need to be recomputed because lazily-loaded
@@ -44,6 +48,7 @@ export default function Toc({ headingSelector, getTitle, getDepth, ...rest }) {
         setActive(activeIndex === -1 ? titles.length - 1 : activeIndex - 1);
     }, throttleTime);
     useEventListener(`scroll`, scrollHandler);
+
     return (
         <>
             <TocToggle opener open={open} onClick={() => setOpen(true)} />

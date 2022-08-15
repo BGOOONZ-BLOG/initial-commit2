@@ -7,12 +7,7 @@ Unlike other programming languages, JavaScript only has **function scope**, not
 block scope. In the following example, all variables are visible throughout the
 function:
 
----
-
-
-```js
-
-
+```javascript
 function foo() {
     var bar = 42;
     // loop
@@ -37,12 +32,7 @@ The big difference between `let`, `const`, and `var` is that `let` and `const`
 are _[block scoped][block scope]_. If we would use `let` instead of `var` in
 the above example, we would get the following result:
 
----
-
-
-```js
-
-
+```javascript
 function foo() {
     let bar = 42; // or var or const, doesn't matter
     // loop

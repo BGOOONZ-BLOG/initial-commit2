@@ -1,5 +1,6 @@
 import Img from 'gatsby-image';
 import styled from 'styled-components';
+
 export const Post = styled.article`
     height: 100%;
     width: 100%;
@@ -16,6 +17,7 @@ export const Post = styled.article`
         margin-bottom: 0.5em;
     }
 `;
+
 export const Cover = styled(Img).attrs(({ fluid, src }) => !fluid && src && { as: `img` })`
     height: calc(10em + 4vh);
     width: 100%;

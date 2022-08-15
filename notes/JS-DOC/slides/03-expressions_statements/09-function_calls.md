@@ -5,19 +5,14 @@ title: Function Calls
 Like other C-like languages, functions are called by putting `()` after the
 function reference:
 
-```js
+```javascript
 myFunction();
 ```
 
 Unlike other languages, functions can be called with any number of arguments,
 no matter how many formal parameters they have:
 
----
-
-
-```js
-
-
+```javascript
 function myFunction(foo, bar) {
     console.log(foo, bar);
 }
@@ -32,12 +27,7 @@ Each function has access to the special [`arguments`][arguments] variable,
 which is an _array-like_ value. This allows you to access all the arguments
 passed to a function, even if there are more than formal parameters:
 
----
-
-
-```js
-
-
+```javascript
 function myFunction(foo, bar) {
     console.log(foo, bar, arguments);
 }

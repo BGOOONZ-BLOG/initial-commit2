@@ -10,12 +10,7 @@ Constructor functions are functions which _construct objects_. Technically
 _every_ function can be used as a constructor function, it just has to be
 called with the [`new` operator][new]:
 
----
-
-
-```js
-
-
+```javascript
 function Person(name) {
     this.name = name;
 }
@@ -33,12 +28,7 @@ is the object referred to by the function's `prototype` property.
 
 Example:
 
----
-
-
-```js
-
-
+```javascript
 function Person(name) {
     this.name = name;
 }

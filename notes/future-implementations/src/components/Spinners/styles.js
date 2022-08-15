@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+
 // Adapted from https://tobiasahlin.com/spinkit.
 export const FoldingDiv = styled.div`
     margin: 2em auto;

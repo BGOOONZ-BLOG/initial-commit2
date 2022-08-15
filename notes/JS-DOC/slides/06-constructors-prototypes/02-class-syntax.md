@@ -8,7 +8,7 @@ Setting up more complex constructor functions with their prototypes can be
 cumbersome. For that reason ES2015 [introduced a new syntax][classes].
 With the syntax, the example from the previous slide would look like
 
-```js
+```javascript
 class Person {
     constructor(name) {
         this.name = name;

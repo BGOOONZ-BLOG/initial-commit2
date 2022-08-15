@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+
 export const useSize = (ref, quantity) => {
     const [size, setSize] = useState(0);
     // useState for performance, prevents ResizeObserver from being invoked on every rerender

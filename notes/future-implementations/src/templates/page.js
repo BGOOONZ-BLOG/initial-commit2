@@ -3,6 +3,7 @@ import { PageBody } from 'components/styles';
 import { graphql } from 'gatsby';
 import { MDXRenderer as Mdx } from 'gatsby-plugin-mdx';
 import React from 'react';
+
 export default function PageTemplate({ data }) {
     const { frontmatter, body, excerpt } = data.page;
     const { title, cover } = frontmatter;
@@ -23,6 +24,7 @@ export default function PageTemplate({ data }) {
         </>
     );
 }
+
 export const query = graphql`
     query ($slug: String!) {
         page: mdx(frontmatter: { slug: { eq: $slug } }) {

@@ -18,23 +18,23 @@ Part 1:
 
 > _Machine learning is one way to use AI. It was defined in the 1950s by AI pioneer_ <a href="https://en.wikipedia.org/wiki/Arthur_Samuel" class="markup--anchor markup--blockquote-anchor"><em>Arthur Samuel</em></a> _as "the field of study that gives computers the ability to learn without explicitly being programmed."_
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*BaIm4BXgHJN8EJFI.png" class="graf-image" /></figure>- <span id="0908">\[📖\] <a href="https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220" class="markup--anchor markup--li-anchor">Delivering Happiness</a></span>
-- <span id="efe1">\[📖\] <a href="https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6" class="markup--anchor markup--li-anchor">Good to Great: Why Some Companies Make the Leap…And Others Don't</a></span>
-- <span id="a119">\[📖\] <a href="https://www.amazon.com/Hello-Startup-Programmers-Building-Technologies/dp/1491909900" class="markup--anchor markup--li-anchor">Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams</a></span>
-- <span id="6430">\[📖\] <a href="https://www.howgoogleworks.net/" class="markup--anchor markup--li-anchor">How Google Works</a></span>
-- <span id="395e">\[📖\] <a href="https://www.goodreads.com/book/show/817589.Learn_to_Earn" class="markup--anchor markup--li-anchor">Learn to Earn: A Beginner's Guide to the Basics of Investing and Business</a></span>
-- <span id="3ed1">\[📖\] <a href="https://www.goodreads.com/book/show/6732019-rework" class="markup--anchor markup--li-anchor">Rework</a></span>
-- <span id="31e6">\[📖\] <a href="https://www.amazon.com/Airbnb-Story-Ordinary-Disrupted-Controversy/dp/0544952669" class="markup--anchor markup--li-anchor">The Airbnb Story</a></span>
-- <span id="fb26">\[📖\] <a href="https://www.amazon.com/Personal-MBA-Master-Art-Business/dp/1591845572" class="markup--anchor markup--li-anchor">The Personal MBA</a></span>
-- <span id="2730">\[ \] <a href="https://learn.fb.com/skillset/marketing-started" class="markup--anchor markup--li-anchor">Facebook: Digital marketing: get started</a></span>
-- <span id="f6db">\[ \] <a href="https://learn.fb.com/skillset/marketing-further" class="markup--anchor markup--li-anchor">Facebook: Digital marketing: go further</a></span>
-- <span id="f40c">\[ \] <a href="https://analytics.google.com/analytics/academy/course/6" class="markup--anchor markup--li-anchor">Google Analytics for Beginners</a></span>
-- <span id="7c08">\[ \] <a href="https://moz.com/beginners-guide-to-seo" class="markup--anchor markup--li-anchor">Moz: The Beginner's Guide to SEO</a></span>
-- <span id="7885">\[ \] <a href="https://smart.ly/course/abd47e21-4b59-4ccf-910d-fb1c18b2e9df" class="markup--anchor markup--li-anchor">Smartly: Marketing Fundamentals</a></span>
-- <span id="76f8">\[ \] <a href="https://teamtreehouse.com/library/seo-basics" class="markup--anchor markup--li-anchor">Treehouse: SEO Basics</a></span>
-- <span id="5e42">\[🅤\]ꭏ <a href="https://www.udacity.com/course/app-monetization--ud518" class="markup--anchor markup--li-anchor">App Monetization</a></span>
-- <span id="2abe">\[🅤\]ꭏ <a href="https://www.udacity.com/course/app-marketing--ud719" class="markup--anchor markup--li-anchor">App Marketing</a></span>
-- <span id="3c34">\[🅤\]ꭏ <a href="https://www.udacity.com/course/how-to-build-a-startup--ep245" class="markup--anchor markup--li-anchor">How to Build a Startup</a></span>
+<figure><img src="https://cdn-images-1.medium.com/max/800/0*BaIm4BXgHJN8EJFI.png" class="graf-image" /></figure>-   <span id="0908">\[📖\] <a href="https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220" class="markup--anchor markup--li-anchor">Delivering Happiness</a></span>
+-   <span id="efe1">\[📖\] <a href="https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6" class="markup--anchor markup--li-anchor">Good to Great: Why Some Companies Make the Leap…And Others Don't</a></span>
+-   <span id="a119">\[📖\] <a href="https://www.amazon.com/Hello-Startup-Programmers-Building-Technologies/dp/1491909900" class="markup--anchor markup--li-anchor">Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams</a></span>
+-   <span id="6430">\[📖\] <a href="https://www.howgoogleworks.net/" class="markup--anchor markup--li-anchor">How Google Works</a></span>
+-   <span id="395e">\[📖\] <a href="https://www.goodreads.com/book/show/817589.Learn_to_Earn" class="markup--anchor markup--li-anchor">Learn to Earn: A Beginner's Guide to the Basics of Investing and Business</a></span>
+-   <span id="3ed1">\[📖\] <a href="https://www.goodreads.com/book/show/6732019-rework" class="markup--anchor markup--li-anchor">Rework</a></span>
+-   <span id="31e6">\[📖\] <a href="https://www.amazon.com/Airbnb-Story-Ordinary-Disrupted-Controversy/dp/0544952669" class="markup--anchor markup--li-anchor">The Airbnb Story</a></span>
+-   <span id="fb26">\[📖\] <a href="https://www.amazon.com/Personal-MBA-Master-Art-Business/dp/1591845572" class="markup--anchor markup--li-anchor">The Personal MBA</a></span>
+-   <span id="2730">\[ \] <a href="https://learn.fb.com/skillset/marketing-started" class="markup--anchor markup--li-anchor">Facebook: Digital marketing: get started</a></span>
+-   <span id="f6db">\[ \] <a href="https://learn.fb.com/skillset/marketing-further" class="markup--anchor markup--li-anchor">Facebook: Digital marketing: go further</a></span>
+-   <span id="f40c">\[ \] <a href="https://analytics.google.com/analytics/academy/course/6" class="markup--anchor markup--li-anchor">Google Analytics for Beginners</a></span>
+-   <span id="7c08">\[ \] <a href="https://moz.com/beginners-guide-to-seo" class="markup--anchor markup--li-anchor">Moz: The Beginner's Guide to SEO</a></span>
+-   <span id="7885">\[ \] <a href="https://smart.ly/course/abd47e21-4b59-4ccf-910d-fb1c18b2e9df" class="markup--anchor markup--li-anchor">Smartly: Marketing Fundamentals</a></span>
+-   <span id="76f8">\[ \] <a href="https://teamtreehouse.com/library/seo-basics" class="markup--anchor markup--li-anchor">Treehouse: SEO Basics</a></span>
+-   <span id="5e42">\[🅤\]ꭏ <a href="https://www.udacity.com/course/app-monetization--ud518" class="markup--anchor markup--li-anchor">App Monetization</a></span>
+-   <span id="2abe">\[🅤\]ꭏ <a href="https://www.udacity.com/course/app-marketing--ud719" class="markup--anchor markup--li-anchor">App Marketing</a></span>
+-   <span id="3c34">\[🅤\]ꭏ <a href="https://www.udacity.com/course/how-to-build-a-startup--ep245" class="markup--anchor markup--li-anchor">How to Build a Startup</a></span>
 
 ---
 
@@ -753,4 +753,4 @@ By <a href="https://medium.com/@bryanguner" class="p-author h-card">Bryan Guner<
 
 <a href="https://medium.com/@bryanguner/everything-you-need-to-become-a-machine-learner-382ee243f23c" class="p-canonical">Canonical link</a>
 
-August 31, 2021.
+Exported from [Medium](https://medium.com) on August 31, 2021.

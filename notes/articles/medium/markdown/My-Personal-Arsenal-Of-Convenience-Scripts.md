@@ -398,8 +398,6 @@ code:
       if (err) throw err;
     });
 
-```
-
 ---
 
 ### 17. Replace space in filename with underscore
@@ -1020,5 +1018,4 @@ By <a href="https://medium.com/@bryanguner" class="p-author h-card">Bryan Guner<
 
 <a href="https://medium.com/@bryanguner/my-personal-arsenal-of-convenience-scripts-3c7869fdae53" class="p-canonical">Canonical link</a>
 
- August 31, 2021.
-```
+Exported from [Medium](https://medium.com) on August 31, 2021.

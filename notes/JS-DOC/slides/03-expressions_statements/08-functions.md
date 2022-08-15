@@ -8,12 +8,7 @@ and function **expressions**.
 **Function declarations** start with the `function` keyword followed by a
 **name**, the parameter list and the function body:
 
----
-
-
-```js
-
-
+```javascript
 function foo(a, b, c) {
     // do something
 }
@@ -21,7 +16,7 @@ function foo(a, b, c) {
 
 **Function expressions** have the same structure, but their name is optional:
 
-```js
+```javascript
 var foo = function (a, b, c) {
     // do something
 };
@@ -41,18 +36,13 @@ parser treats a function definition as declaration or expression depends on
 where the definition is placed. If it is an expression context, it is
 interpreted as an expression, otherwise as a declaration. That's why
 
----
-
-
-```js
-
-
+```javascript
 function () { }
 ```
 
 generates an error (function declaration without name), but
 
-```js
+```javascript
 (function () {});
 ```
 

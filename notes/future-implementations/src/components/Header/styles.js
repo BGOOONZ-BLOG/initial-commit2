@@ -1,6 +1,7 @@
 import { Link } from 'gatsby';
 import styled from 'styled-components';
 import { mediaQueries } from 'utils/mediaQueries';
+
 export const HeaderDiv = styled.header`
     background: var(--color-b);
     position: sticky;
@@ -18,6 +19,7 @@ export const HeaderDiv = styled.header`
         grid-template-areas: 'title nav darkmode search';
     }
 `;
+
 export const Logo = styled(Link)`
     grid-area: title;
     font-size: 2.4em;

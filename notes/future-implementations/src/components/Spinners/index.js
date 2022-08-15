@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { FoldingDiv } from './styles';
+
 export const FoldingSpinner = (props) => {
     const [active, setActive] = useState(true);
     return (

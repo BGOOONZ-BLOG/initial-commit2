@@ -2,6 +2,7 @@ import { Link } from 'gatsby';
 import React from 'react';
 import PostMeta from '../PostMeta';
 import { Cover, Post } from './styles';
+
 export default function PostExcerpt({ post, noText }) {
     const { frontmatter, excerpt, timeToRead } = post;
     const { title, slug, cover } = frontmatter;
